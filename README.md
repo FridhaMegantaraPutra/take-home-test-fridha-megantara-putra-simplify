@@ -2,13 +2,7 @@
 
 # RAG AI Chat Assistant
 
-<!-- Demo video -->
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-# RAG AI Chat Assistant
+[Watch demo on YouTube](https://youtu.be/kJp4TW-Ohg0)
 
 
 
