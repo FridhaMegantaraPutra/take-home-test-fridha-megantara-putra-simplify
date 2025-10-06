@@ -2,7 +2,8 @@
 
 # RAG AI Chat Assistant
 
-[Watch demo on YouTube](https://youtu.be/kJp4TW-Ohg0)
+[![Watch the demo](https://img.youtube.com/vi/kJp4TW-Ohg0/0.jpg)](https://youtu.be/kJp4TW-Ohg0)
+
 
 
 
