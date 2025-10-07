@@ -85,10 +85,13 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 ### requirements.txt
 
 ```txt
-streamlit
-scikit-learn
-pydantic-ai-slim[groq]
-python-dotenv
+
+streamlit==1.50.0
+pydantic-ai-slim[groq]==1.0.15
+numpy==2.3.3
+faiss-cpu==1.12.0
+python-dotenv==1.1.1
+scikit-learn==1.7.2
 ```
 
 ---
